@@ -21,10 +21,10 @@ const About = () => {
                  the ever-evolving field of software engineering.</p>
               </div>
               <div className='about-skills'>
-                <div className='about-skill'><p>HTML & CSS</p><hr style={{width:"50%"}}></hr></div>
+                <div className='about-skill'><p>.NET</p><hr style={{width:"50%"}}></hr></div>
                             <div className='about-skill'><p>React Js</p><hr style={{width:"50%"}}></hr></div>
-                            <div className='about-skill'><p>JavaScript</p><hr style={{width:"50%"}}></hr></div>
                             <div className='about-skill'><p>Java</p><hr style={{width:"50%"}}></hr></div>
+                            <div className='about-skill'><p>SpringBoot</p><hr style={{width:"50%"}}></hr></div>
               </div>
             </div>
             
