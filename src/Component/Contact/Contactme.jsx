@@ -63,8 +63,9 @@ const Contactme = () => {
             <label htmlFor="">Your Email</label>
             <input type="Email" placeholder="Enter your Email" name="Email" />
             <label htmlFor="">Write your message here</label>
-            <input
-              type="message"
+            <textarea
+              className="message"
+              rows={8}
               placeholder="Enter your message"
               name="message"
             />

@@ -3,7 +3,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 80px;
+  gap: 2px;
   margin: 80px 170px;
 }
 .mywork-title {
@@ -23,7 +23,7 @@
 .mywork-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 40px;
+  gap: 30px;
 }
 .mywork-container img {
   box-sizing: border-box;

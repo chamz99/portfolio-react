@@ -79,6 +79,7 @@
   .about-left img {
     width: 130px;
     right: -20px;
+    /* border-radius: 50%; */
   }
   .about-sections {
     flex-direction: column;
