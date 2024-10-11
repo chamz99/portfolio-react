@@ -26,6 +26,10 @@ const Contactme = () => {
     if (res.success) {
       console.log("Success", res);
       alert(res.message);
+
+      event.target.reset();
+    } else {
+      alert("Something went wrong. Please try again.");
     }
   };
   return (

@@ -105,6 +105,8 @@
   border: none;
   color: aliceblue;
   border-radius: 50px;
+  height: auto;
+  width: 200px;
   background: linear-gradient(270deg, #df8908 10%, #b415ff 100%);
   font-size: 22px;
   padding: 20px 60px;

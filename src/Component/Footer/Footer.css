@@ -15,6 +15,7 @@
 .footer-top-left img {
   height: 50px;
   width: 50px;
+  border-radius: 50%;
 }
 .footer-top-right {
   display: flex;
@@ -24,7 +25,7 @@
 .footer-email-input {
   display: flex;
   gap: 30px;
-  padding: 20px 30px;
+  padding: 10px 20px;
   border-radius: 50px;
   background-color: #32323b;
   padding-right: 80px;
@@ -32,6 +33,7 @@
 .footer-email-input img {
   height: 50px;
   width: 50px;
+  border-radius: 30%;
 }
 .footer-email-input input {
   outline: none;
@@ -43,7 +45,7 @@
 }
 .footer-subscribe {
   font-size: 20px;
-  padding: 22px 50px;
+  padding: 20px 40px;
   border-radius: 50px;
   background: linear-gradient(270deg, #df8908 10%, #b415ff 100%);
   cursor: pointer;

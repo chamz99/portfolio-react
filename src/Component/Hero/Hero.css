@@ -1,58 +1,65 @@
-.hero{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    gap: 35px;
+.hero {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 35px;
 }
-.hero img{
-    width: 250px; 
-    height: 250px;
-    border-radius: 80%;
-    object-fit: cover; 
-    margin-top: 50px;
+.hero img {
+  width: 250px;
+  height: 250px;
+  border-radius: 80%;
+  object-fit: cover;
+  margin-top: 50px;
 }
-.hero h1{
-    text-align: center;
-    width: 70%;
-    font-size: 40px;
-    font-weight: 600;
+.hero h1 {
+  text-align: center;
+  width: 70%;
+  font-size: 40px;
+  font-weight: 600;
 }
-.hero h1 span{
-    background: linear-gradient(270deg,#DF8908 10%,#B415FF 100%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+.hero h1 span {
+  background: linear-gradient(270deg, #db7093 100%, #fdfbfa 10%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
-.hero p{
-    width: 50%;
-    text-align: center;
-    font-size: 20px;
-    line-height: 40px;
+.hero p {
+  width: 50%;
+  text-align: center;
+  font-size: 20px;
+  line-height: 40px;
 }
-.hero-action{
-    display: flex;
-    align-items: center;
-    gap: 25px;
-    font-size: 24px;
-    font-weight: 200;
-    margin-bottom: 50px;
+.hero-action {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  font-size: 24px;
+  font-weight: 200;
+  margin-bottom: 50px;
 }
-.hero-connect{
-    padding: 15px 30px;
-    border-radius: 50px;
-    background: linear-gradient(270deg,#DF8908 10%,#B415FF 100%);
-cursor: pointer;
+.hero-connect {
+  padding: 15px 30px;
+  border-radius: 50px;
+  background: linear-gradient(270deg, #df8908 10%, #b415ff 100%);
+  cursor: pointer;
+  text-decoration: none;
+  color: #fff;
 }
-.hero-resume{
-    padding: 15px 30px;
-    border-radius: 50px;
-    border: 2px solid #FFF;
-    cursor: pointer;
+.hero-resume {
+  padding: 15px 30px;
+  border-radius: 50px;
+  border: 2px solid #fff;
+  cursor: pointer;
+  text-decoration: none;
+  color: #fff;
+  text-decoration-line: none;
 }
-.hero-connect:hover
-{
-border: 2px solid wheat;
+.hero-action a {
+  text-decoration: none;
 }
-.hero-resume:hover{
-border: 2px rgba(255, 255, 255, 0.647);
+.hero-connect:hover {
+  border: 2px solid wheat;
+}
+.hero-resume:hover {
+  border: 2px rgba(255, 255, 255, 0.647);
 }

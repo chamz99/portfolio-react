@@ -9,7 +9,16 @@ const Portfolio = () => {
       </div>
       <div className="mywork-container">
         {mywork_data.map((work, index) => {
-          return <img key={index} src={work.w_img} alt="" />;
+          return (
+            <a
+              key={index}
+              href={work.github_link}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img key={index} src={work.w_img} alt="" />
+            </a>
+          );
         })}
       </div>
     </div>
