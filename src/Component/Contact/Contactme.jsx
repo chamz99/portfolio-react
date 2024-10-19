@@ -1,5 +1,5 @@
 import React from "react";
-import "./Contactme.css";
+import "./contactme.css";
 import mail_icon from "../../assets/mail_icon.jpeg";
 import location_icon from "../../assets/location_icon.jpeg";
 import call_icon from "../../assets/call_icon.jpeg";
