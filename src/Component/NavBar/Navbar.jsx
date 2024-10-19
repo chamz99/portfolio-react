@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import logo from "../../assets/logo.jpeg";
-import "../NavBar/navbar.css";
+import "./Navbar.css";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import menu_Icon from "../../assets/menu_Icon.png";
 import close from "../../assets/close.png";

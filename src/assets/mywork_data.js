@@ -7,7 +7,7 @@ const mywork_data = [
   {
     w_no: 1,
     w_name: "Web design",
-    github_link: "https://github.com/chamz99/textpredict-project",
+    github_link: "https://github.com/chamz99/Hotel-Web",
     w_img: project1_img,
   },
   {
@@ -19,13 +19,13 @@ const mywork_data = [
   {
     w_no: 3,
     w_name: "Web design",
-    github_link: "https://github.com/chamz99/textpredict-project",
+    github_link: "https://github.com/chamz99/Game",
     w_img: project3_img,
   },
   {
     w_no: 4,
     w_name: "Web design",
-    github_link: "https://github.com/chamz99/textpredict-project",
+    github_link: "https://github.com/chamz99/user-service",
     w_img: project4_img,
   },
 ];

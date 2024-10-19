@@ -15,7 +15,7 @@ const Hero = () => {
           <div className="hero-connect">connect with me</div>
         </a>
         <a
-          href="https://drive.google.com/file/d/1mNqSdzKwWXdce43wiDUdBdoK6CgEB7Z2/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1JCkT_iOUz-K0SLlP5nZ-3pwzm8c555-C/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >
