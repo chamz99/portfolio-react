@@ -1,5 +1,5 @@
 import React from "react";
-import "./portfolio.css";
+import "./Portfolio.css";
 import mywork_data from "../../assets/mywork_data";
 const Portfolio = () => {
   return (
